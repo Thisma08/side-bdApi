@@ -3756,11 +3756,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "M:\\ecole\\2024-2025\\TI\\docker\\BdApi\\BdApi\\BdApi.csproj",
+      "projectUniqueName": "M:\\ecole\\2024-2025\\TI\\docker\\side-bdapi\\BdApi\\BdApi.csproj",
       "projectName": "BdApi",
-      "projectPath": "M:\\ecole\\2024-2025\\TI\\docker\\BdApi\\BdApi\\BdApi.csproj",
+      "projectPath": "M:\\ecole\\2024-2025\\TI\\docker\\side-bdapi\\BdApi\\BdApi.csproj",
       "packagesPath": "C:\\Users\\Mathis\\.nuget\\packages\\",
-      "outputPath": "M:\\ecole\\2024-2025\\TI\\docker\\BdApi\\BdApi\\obj\\",
+      "outputPath": "M:\\ecole\\2024-2025\\TI\\docker\\side-bdapi\\BdApi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Mathis\\AppData\\Roaming\\NuGet\\NuGet.Config"
